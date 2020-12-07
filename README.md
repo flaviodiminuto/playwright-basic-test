@@ -18,6 +18,8 @@ node .\openEATest.js
 node ./openEATest.js
 ```
 
+**Importante - A página web está hospedada no heroku e a carga dos dados demora na primeira requisição**
+
 ## O teste consinste em
 
 1. Abrir o navegador
